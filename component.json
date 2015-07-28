@@ -15,6 +15,7 @@
   "scripts": [
     "index.js",
     "components/Argument.coffee",
+    "components/Issue.coffee",
     "components/Meta.coffee",
     "components/Statement.coffee"
   ],
@@ -25,6 +26,7 @@
     "icon": "random",
     "components": {
       "Argument": "components/Argument.coffee",
+      "Issue": "components/Issue.coffee",
       "Meta": "components/Meta.coffee",
       "Statement": "components/Statement.coffee"
     }

@@ -7,7 +7,7 @@ exports.getComponent = ->
   c.icon = 'exclamation'
 
   # Provide a description on component usage
-  c.description = 'Argumentation graph statement'
+  c.description = 'Carneades argument'
 
   c.inPorts.add 'scheme',
     datatype: 'string'
