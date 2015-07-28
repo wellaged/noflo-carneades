@@ -1,0 +1,18 @@
+{
+  "name": "noflo-carneades",
+  "description": "The best project ever.",
+  "author": "Andreas C. Osowski <andreas.osowski@fokus.fraunhofer.de>",
+  "repo": "th0br0/noflo-carneades",
+  "version": "0.1.0",
+  "keywords": [
+  ],
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
