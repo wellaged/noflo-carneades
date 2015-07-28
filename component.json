@@ -13,6 +13,16 @@
     "https://raw.githubusercontent.com"
   ],
   "scripts": [
-    "index.js"
-  ]
+    "index.js",
+    "components/DoSomething.coffee"
+  ],
+  "json": [
+    "component.json"
+  ],
+  "noflo": {
+    "icon": "random",
+    "components": {
+      "DoSomething": "components/DoSomething.coffee"
+    }
+  }
 }
