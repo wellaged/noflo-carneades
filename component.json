@@ -14,7 +14,9 @@
   ],
   "scripts": [
     "index.js",
-    "components/DoSomething.coffee"
+    "components/Argument.coffee",
+    "components/Meta.coffee",
+    "components/Statement.coffee"
   ],
   "json": [
     "component.json"
@@ -22,7 +24,9 @@
   "noflo": {
     "icon": "random",
     "components": {
-      "DoSomething": "components/DoSomething.coffee"
+      "Argument": "components/Argument.coffee",
+      "Meta": "components/Meta.coffee",
+      "Statement": "components/Statement.coffee"
     }
   }
 }
