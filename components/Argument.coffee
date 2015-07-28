@@ -15,7 +15,7 @@ exports.getComponent = ->
   c.inPorts.add 'premise',
     datatype: 'boolean'
 
-  c.outPort.add 'conclusion',
+  c.outPorts.add 'conclusion',
     datatype: 'boolean'
 
   c

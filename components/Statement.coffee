@@ -19,7 +19,7 @@ exports.getComponent = ->
     process: (event, payload) ->
       c.outPorts.value.send payload
 
-  c.outPort.add 'value',
+  c.outPorts.add 'value',
     datatype: 'boolean'
 
   c
